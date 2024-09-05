@@ -1,0 +1,4 @@
+# request for metadata that has "ethics of generative" in title 
+GET  https://api.crossref.org/works?query=ethics+of+generative&rows=0
+Accept: application/json
+

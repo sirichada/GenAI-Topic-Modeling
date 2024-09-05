@@ -1,0 +1,2 @@
+GET https://api.crossref.org/works?query=%22ethics%20of%20generative%20ai%22&select=title
+Accept: application/json
