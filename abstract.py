@@ -16,6 +16,7 @@ data = response.json()
 items = data['message']['items']
 records = [
     {
+        'DOI': item['DOI'] if 'DOI' in item else 'N/A',
         'Title': item['title'][0] if 'title' in item and item['title'] else 'N/A',
         'Abstract': item['abstract'] if 'abstract' in item else 'N/A'
     }
