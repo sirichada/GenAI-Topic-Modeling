@@ -1,5 +1,5 @@
 # AN OVERVIEW OF RESEARCH & RESEARCHERS: Topic Modeling GenAI Ethics
-*Paper researched by Sirichada (Tingting)*
+*Paper researched by Sirichada (Tingting) for [COM-108]*
 
 With the emergence of new technology, ethical principles must be established to guide research, interest, and investment towards beneficial yet moral purposes. In the space of generative artificial intelligence, a literature review must be done to assess areas of research that are in alignment with the public’s ethical considerations, such as originality and the value of self-expression. 
 
